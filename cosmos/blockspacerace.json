@@ -18,13 +18,15 @@
   "stakeCurrency": {
     "coinDenom": "TIA",
     "coinMinimalDenom": "utia",
-    "coinDecimals": 6
+    "coinDecimals": 6,
+    "coinImageUrl" : "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/celestiatestnet/images/celestia.svg"
   },
   "currencies": [
     {
       "coinDenom": "TIA",
       "coinMinimalDenom": "utia",
-      "coinDecimals": 6
+      "coinDecimals": 6,
+      "coinImageUrl" : "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/celestiatestnet/images/celestia.svg"
     }
   ],
   "feeCurrencies": [
@@ -32,6 +34,7 @@
       "coinDenom": "TIA",
       "coinMinimalDenom": "utia",
       "coinDecimals": 6,
+      "coinImageUrl" : "https://raw.githubusercontent.com/cosmos/chain-registry/master/testnets/celestiatestnet/images/celestia.svg",
       "gasPriceStep": {
         "low": 0.01,
         "average": 0.025,
