@@ -8,7 +8,7 @@
       },
     "chainId": "morocco-1",
     "chainName": "Terp Network",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/morocco/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/morocco/chain.png",
     "stakeCurrency": {
       "coinDenom": "TERP",
       "coinMinimalDenom": "uterp",

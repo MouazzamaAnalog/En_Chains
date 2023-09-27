@@ -8,11 +8,11 @@
     "coinMinimalDenom": "umars",
     "coinDecimals": 6,
     "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/mars/umars.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/mars/umars.png"
   },
   "walletUrl": "https://wallet.keplr.app/chains/mars-hub",
   "walletUrlForStaking": "https://wallet.keplr.app/chains/mars-hub",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/mars/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/mars/chain.png",
   "bip44": {
     "coinType": 118
   },
@@ -35,7 +35,7 @@
       "coinMinimalDenom": "umars",
       "coinDecimals": 6,
       "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/mars/umars.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/mars/umars.png"
     }
   ],
   "feeCurrencies": [
@@ -44,7 +44,7 @@
       "coinMinimalDenom": "umars",
       "coinDecimals": 6,
       "coinGeckoId": "mars-protocol-a7fcbcfb-fd61-4017-92f0-7ee9f9cc6da3",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/mars/umars.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/mars/umars.png",
       "gasPriceStep": {
         "low": 0,
         "average": 0,

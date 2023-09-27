@@ -3,7 +3,7 @@
   "rest": "https://mainnet.crescent.network:1317",
   "chainId": "crescent-1",
   "chainName": "Crescent Network",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/crescent/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/crescent/chain.png",
   "nodeProvider": {
     "name": "Crescent Node",
     "email": "contact@crescent.network",
@@ -14,7 +14,7 @@
     "coinMinimalDenom": "ucre",
     "coinDecimals": 6,
     "coinGeckoId": "crescent-network",
-    "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/crescent/chain.png"
+    "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/crescent/chain.png"
   },
   "walletUrl": "https://app.crescent.network/",
   "walletUrlForStaking": "https://app.crescent.network/staking",
@@ -35,14 +35,14 @@
       "coinMinimalDenom": "ucre",
       "coinDecimals": 6,
       "coinGeckoId": "crescent-network",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/crescent/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/crescent/chain.png"
     },
     {
       "coinDenom": "bCRE",
       "coinMinimalDenom": "ubcre",
       "coinDecimals": 6,
       "coinGeckoId": "liquid-staking-crescent",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/crescent/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/crescent/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -51,7 +51,7 @@
       "coinMinimalDenom": "ucre",
       "coinDecimals": 6,
       "coinGeckoId": "crescent-network",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/crescent/chain.png",
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/crescent/chain.png",
       "gasPriceStep": {
         "low": 0.01,
         "average": 0.025,

@@ -8,7 +8,7 @@
       "coinMinimalDenom": "acudos",
       "coinDecimals": 18,
       "coinGeckoId": "cudos",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Cudos/cudos.jpg"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Cudos/cudos.jpg"
     },
     "bip44": {
       "coinType": 118
@@ -28,7 +28,7 @@
         "coinMinimalDenom": "acudos",
         "coinDecimals": 18,
         "coinGeckoId": "cudos",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Cudos/cudos.jpg"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Cudos/cudos.jpg"
       }
     ],
     "feeCurrencies": [
@@ -37,7 +37,7 @@
         "coinMinimalDenom": "acudos",
         "coinDecimals": 18,
         "coinGeckoId": "cudos",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Cudos/cudos.jpg",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Cudos/cudos.jpg",
         "gasPriceStep": {
           "low": 5000000000000,
           "average": 10000000000000,

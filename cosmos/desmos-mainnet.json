@@ -1,7 +1,7 @@
 {
     "chainId": "desmos-mainnet",
     "chainName": "Desmos",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/desmos-mainnet/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/desmos-mainnet/chain.png",
     "rpc": "https://rpc.mainnet.desmos.network",
     "rest": "https://api.mainnet.desmos.network",
     "nodeProvider": {
@@ -26,7 +26,7 @@
             "coinMinimalDenom": "udsm",
             "coinDecimals": 6,
             "coinGeckoId": "desmos",
-            "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/desmos-mainnet/chain.png"
+            "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/desmos-mainnet/chain.png"
         }
     ],
     "feeCurrencies": [
@@ -35,7 +35,7 @@
             "coinMinimalDenom": "udsm",
             "coinDecimals": 6,
             "coinGeckoId": "desmos",
-            "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/desmos-mainnet/chain.png",
+            "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/desmos-mainnet/chain.png",
             "gasPriceStep": {
                 "low": 0.01,
                 "average": 0.03,
@@ -48,7 +48,7 @@
         "coinMinimalDenom": "udsm",
         "coinDecimals": 6,
         "coinGeckoId": "desmos",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/desmos-mainnet/chain.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/desmos-mainnet/chain.png"
     },
     "features": []
 }

@@ -1,7 +1,7 @@
 {
   "chainId": "laozi-mainnet",
   "chainName": "BandChain",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/laozi-mainnet/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/laozi-mainnet/chain.png",
   "rpc": "https://rpc.laozi3.bandchain.org:443",
   "rest": "https://laozi3.bandchain.org/api",
   "nodeProvider": {
@@ -26,7 +26,7 @@
       "coinMinimalDenom": "uband",
       "coinDecimals": 6,
       "coinGeckoId": "band-protocol",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/band-laozi-testnet6/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/band-laozi-testnet6/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -35,7 +35,7 @@
       "coinMinimalDenom": "uband",
       "coinDecimals": 6,
       "coinGeckoId": "band-protocol",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/band-laozi-testnet6/chain.png",
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/band-laozi-testnet6/chain.png",
       "gasPriceStep": {
         "low": 0.0025,
         "average": 0.003,
@@ -48,7 +48,7 @@
     "coinMinimalDenom": "uband",
     "coinDecimals": 6,
     "coinGeckoId": "band-protocol",
-    "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/band-laozi-testnet6/chain.png"
+    "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/band-laozi-testnet6/chain.png"
   },
   "features": []
 }

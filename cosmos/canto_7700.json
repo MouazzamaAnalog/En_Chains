@@ -3,7 +3,7 @@
   "rest": "https://mainnode.plexnode.org:1317",
   "chainId": "canto_7700-1",
   "chainName": "Canto",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/canto_7700/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/canto_7700/chain.png",
   "nodeProvider": {
     "name": "Plex Labs",
     "email": "contact@plex.engineer",
@@ -14,7 +14,7 @@
     "coinMinimalDenom": "acanto",
     "coinDecimals": 18,
     "coinGeckoId": "canto",
-    "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/canto_7700/chain.png"
+    "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/canto_7700/chain.png"
   },
   "walletUrl": "https://canto.io/",
   "walletUrlForStaking": "https://canto.io/staking",
@@ -35,7 +35,7 @@
       "coinMinimalDenom": "acanto",
       "coinDecimals": 18,
       "coinGeckoId": "canto",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/canto_7700/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/canto_7700/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -44,7 +44,7 @@
       "coinMinimalDenom": "acanto",
       "coinDecimals": 18,
       "coinGeckoId": "canto",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/canto_7700/chain.png",
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/canto_7700/chain.png",
       "gasPriceStep": {
         "low": 1250000000000,
         "average": 2500000000000,

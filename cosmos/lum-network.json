@@ -3,13 +3,13 @@
     "rest": "https://node0.mainnet.lum.network/rest",
     "chainId": "lum-network-1",
     "chainName": "Lum Network",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/lum-network/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/lum-network/chain.png",
     "stakeCurrency": {
         "coinDenom": "LUM",
         "coinMinimalDenom": "ulum",
         "coinDecimals": 6,
         "coinGeckoId": "lum-network",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/lum-network/chain.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/lum-network/chain.png"
     },
     "nodeProvider": {
         "name": "Lum Network",
@@ -34,7 +34,7 @@
             "coinMinimalDenom": "ulum",
             "coinDecimals": 6,
             "coinGeckoId": "lum-network",
-            "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/lum-network/chain.png"
+            "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/lum-network/chain.png"
         },
         {
             "coinDenom": "DFR",
@@ -48,7 +48,7 @@
             "coinMinimalDenom": "ulum",
             "coinDecimals": 6,
             "coinGeckoId": "lum-network",
-            "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/lum-network/chain.png",
+            "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/lum-network/chain.png",
             "gasPriceStep": {
                 "low": 0.01,
                 "average": 0.025,

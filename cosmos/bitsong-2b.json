@@ -8,13 +8,13 @@
   },
   "chainId": "bitsong-2b",
   "chainName": "BitSong",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/bitsong-2b/image.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/bitsong-2b/image.png",
   "stakeCurrency": {
     "coinDenom": "BTSG",
     "coinMinimalDenom": "ubtsg",
     "coinDecimals": 6,
     "coinGeckoId": "bitsong",
-    "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/bitsong-2b/image.png"
+    "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/bitsong-2b/image.png"
   },
   "walletUrl": "https://wallet.bitsong.io",
   "walletUrlForStaking": "https://wallet.bitsong.io/#/validators",
@@ -35,7 +35,7 @@
       "coinMinimalDenom": "ubtsg",
       "coinDecimals": 6,
       "coinGeckoId": "bitsong",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/bitsong-2b/image.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/bitsong-2b/image.png"
     },
     {
       "coinDenom": "CLAY",
@@ -119,7 +119,7 @@
       "coinMinimalDenom": "ubtsg",
       "coinDecimals": 6,
       "coinGeckoId": "bitsong",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/bitsong-2b/image.png",
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/bitsong-2b/image.png",
       "gasPriceStep": {
         "low": 0.5,
         "average": 3,

@@ -8,7 +8,7 @@
       "coinMinimalDenom": "udarc",
       "coinDecimals": 6,
       "coinGeckoId": "darcmatter-coin",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Konstellation/konstellation.jpg"
     },
     "bip44": {
       "coinType": 118
@@ -28,7 +28,7 @@
         "coinMinimalDenom": "udarc",
         "coinDecimals": 6,
         "coinGeckoId": "darcmatter-coin",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Konstellation/konstellation.jpg"
       }
     ],
     "feeCurrencies": [
@@ -37,7 +37,7 @@
         "coinMinimalDenom": "udarc",
         "coinDecimals": 6,
         "coinGeckoId": "darcmatter-coin",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Konstellation/konstellation.jpg",
         "gasPriceStep": {
           "low": 0,
           "average": 0.025,

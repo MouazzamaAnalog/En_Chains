@@ -1,7 +1,7 @@
 {
   "chainId": "planq_7070-2",
   "chainName": "Planq",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/planq_7070/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/planq_7070/chain.png",
   "rpc": "https://rpc.planq.network",
   "rest": "https://rest.planq.network",
   "nodeProvider": {

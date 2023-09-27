@@ -7,7 +7,7 @@
     "name": "Injective",
     "email": "contact@injectivelabs.org"
   },
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective-888/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective-888/chain.png",
   "bech32Config": {
     "bech32PrefixAccPub": "injpub",
     "bech32PrefixValPub": "injvaloperpub",
@@ -23,14 +23,14 @@
     "coinDenom": "INJ (Testnet)",
     "coinDecimals": 18,
     "coinMinimalDenom": "inj",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective-888/inj.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective-888/inj.png"
   },
   "currencies": [
     {
       "coinDenom": "INJ (Testnet)",
       "coinDecimals": 18,
       "coinMinimalDenom": "inj",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective-888/inj.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective-888/inj.png"
     }
   ],
   "feeCurrencies": [
@@ -38,7 +38,7 @@
       "coinDenom": "INJ (Testnet)",
       "coinDecimals": 18,
       "coinMinimalDenom": "inj",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective-888/inj.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective-888/inj.png",
       "gasPriceStep": {
         "low": 500000000,
         "average": 1000000000,

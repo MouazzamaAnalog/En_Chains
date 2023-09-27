@@ -12,14 +12,14 @@
   },
   "chainId": "pio-mainnet-1",
   "chainName": "Provenance",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/pio-mainnet/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/pio-mainnet/chain.png",
   "currencies": [
     {
       "coinDecimals": 9,
       "coinDenom": "HASH",
       "coinGeckoId": "provenance-blockchain",
       "coinMinimalDenom": "nhash",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/pio-mainnet/chain.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/pio-mainnet/chain.png"
     }
   ],
   "features": [
@@ -31,7 +31,7 @@
       "coinDenom": "HASH",
       "coinGeckoId": "provenance-blockchain",
       "coinMinimalDenom": "nhash",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/pio-mainnet/chain.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/pio-mainnet/chain.png",
       "gasPriceStep": {
         "average": 1905,
         "high": 2500,
@@ -51,6 +51,6 @@
     "coinDenom": "HASH",
     "coinGeckoId": "provenance-blockchain",
     "coinMinimalDenom": "nhash",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/pio-mainnet/chain.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/pio-mainnet/chain.png"
   }
 }

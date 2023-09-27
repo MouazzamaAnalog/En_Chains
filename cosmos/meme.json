@@ -1,7 +1,7 @@
 {
     "chainId": "meme-1",
     "chainName": "Meme Network",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/meme/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/meme/chain.png",
     "rpc": "https://rpc-meme-1.meme.sx/",
     "rest": "https://api-meme-1.meme.sx/",
     "nodeProvider": {

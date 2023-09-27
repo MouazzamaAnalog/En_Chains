@@ -3,7 +3,7 @@
   "rest": "https://lcd.medas-digital.io:1317",
   "chainId": "medasdigital-1",
   "chainName": "Medas Digital",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/medasdigital/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/medasdigital/chain.png",
   "nodeProvider": {
     "name": "Medas Digital",
     "email": "info@medas-digital.io",

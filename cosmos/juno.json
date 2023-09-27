@@ -3,13 +3,13 @@
   "rest": "https://lcd-juno.keplr.app",
   "chainId": "juno-1",
   "chainName": "Juno",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/juno/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/juno/chain.png",
   "stakeCurrency": {
     "coinDenom": "JUNO",
     "coinMinimalDenom": "ujuno",
     "coinDecimals": 6,
     "coinGeckoId": "juno-network",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/juno/ujuno.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/juno/ujuno.png"
   },
   "walletUrl": "https://wallet.keplr.app/chains/juno",
   "walletUrlForStaking": "https://wallet.keplr.app/chains/juno",
@@ -30,7 +30,7 @@
       "coinMinimalDenom": "ujuno",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/juno/ujuno.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/juno/ujuno.png"
     }
   ],
   "feeCurrencies": [
@@ -39,7 +39,7 @@
       "coinMinimalDenom": "ujuno",
       "coinDecimals": 6,
       "coinGeckoId": "juno-network",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/juno/ujuno.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/juno/ujuno.png",
       "gasPriceStep": {
         "low": 0.075,
         "average": 0.075,

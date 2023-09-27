@@ -1,7 +1,7 @@
 {
   "chainId": "panacea-3",
   "chainName": "MediBloc",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/panacea/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/panacea/chain.png",
   "rpc": "https://rpc.gopanacea.org",
   "rest": "https://api.gopanacea.org",
   "nodeProvider": {
@@ -26,7 +26,7 @@
       "coinMinimalDenom": "umed",
       "coinDecimals": 6,
       "coinGeckoId": "medibloc",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/panacea/chain.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/panacea/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -35,7 +35,7 @@
       "coinMinimalDenom": "umed",
       "coinDecimals": 6,
       "coinGeckoId": "medibloc",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/panacea/chain.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/panacea/chain.png",
       "gasPriceStep": {
         "low": 5,
         "average": 7,
@@ -48,7 +48,7 @@
     "coinMinimalDenom": "umed",
     "coinDecimals": 6,
     "coinGeckoId": "medibloc",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/panacea/chain.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/panacea/chain.png"
   },
   "features": []
 }

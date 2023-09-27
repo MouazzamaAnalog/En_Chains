@@ -3,13 +3,13 @@
   "rest": "https://lcd-axelar.keplr.app",
   "chainId": "axelar-dojo-1",
   "chainName": "Axelar",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/axelar-dojo/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/axelar-dojo/chain.png",
   "stakeCurrency": {
     "coinDenom": "AXL",
     "coinMinimalDenom": "uaxl",
     "coinDecimals": 6,
     "coinGeckoId": "axelar",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/axelar-dojo/uaxl.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/axelar-dojo/uaxl.png"
   },
   "walletUrl": "https://wallet.keplr.app/chains/axelar",
   "walletUrlForStaking": "https://wallet.keplr.app/chains/axelar",
@@ -30,7 +30,7 @@
       "coinMinimalDenom": "uaxl",
       "coinDecimals": 6,
       "coinGeckoId": "axelar",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/axelar-dojo/uaxl.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/axelar-dojo/uaxl.png"
     },
     {
       "coinDenom": "ETH",
@@ -43,7 +43,7 @@
       "coinMinimalDenom": "uusdc",
       "coinDecimals": 6,
       "coinGeckoId": "usd-coin",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/axelar-dojo/uusdc.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/axelar-dojo/uusdc.png"
     },
     {
       "coinDenom": "FRAX",
@@ -202,7 +202,7 @@
       "coinMinimalDenom": "uaxl",
       "coinDecimals": 6,
       "coinGeckoId": "axelar",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/axelar-dojo/uaxl.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/axelar-dojo/uaxl.png",
       "gasPriceStep": {
         "low": 0.007,
         "average": 0.007,

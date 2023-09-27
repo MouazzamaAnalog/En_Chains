@@ -8,7 +8,7 @@
       "coinMinimalDenom": "uatolo",
       "coinDecimals": 6,
       "coinGeckoId": "rizon",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Rizon/rizon.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Rizon/rizon.png"
     },
     "bip44": {
       "coinType": 118
@@ -28,7 +28,7 @@
         "coinMinimalDenom": "uatolo",
         "coinDecimals": 6,
         "coinGeckoId": "rizon",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Rizon/rizon.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Rizon/rizon.png"
       }
     ],
     "feeCurrencies": [
@@ -37,7 +37,7 @@
         "coinMinimalDenom": "uatolo",
         "coinDecimals": 6,
         "coinGeckoId": "rizon",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Rizon/rizon.png",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Rizon/rizon.png",
         "gasPriceStep": {
           "low": 0.025,
           "average": 0.025,

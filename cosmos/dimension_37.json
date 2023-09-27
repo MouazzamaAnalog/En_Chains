@@ -3,13 +3,13 @@
   "rest": "https://dimension-lcd.xpla.dev",
   "chainId": "dimension_37-1",
   "chainName": "XPLA",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/dimension_37/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/dimension_37/chain.png",
   "stakeCurrency": {
     "coinDenom": "XPLA",
     "coinMinimalDenom": "axpla",
     "coinDecimals": 18,
     "coinGeckoId": "xpla",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/dimension_37/axpla.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/dimension_37/axpla.png"
   },
 	"nodeProvider": {
     "name": "XPLA",
@@ -33,7 +33,7 @@
       "coinMinimalDenom": "axpla",
       "coinDecimals": 18,
       "coinGeckoId": "xpla",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/dimension_37/axpla.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/dimension_37/axpla.png"
     }
   ],
   "feeCurrencies": [
@@ -42,7 +42,7 @@
       "coinMinimalDenom": "axpla",
       "coinDecimals": 18,
       "coinGeckoId": "xpla",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/dimension_37/axpla.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/dimension_37/axpla.png",
       "gasPriceStep": {
         "low": 850000000000,
         "average": 1147500000000,

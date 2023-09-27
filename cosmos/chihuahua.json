@@ -1,7 +1,7 @@
 {
     "chainId": "chihuahua-1",
     "chainName": "Chihuahua v1.2",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/chihuahua/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/chihuahua/chain.png",
     "rpc": "https://rpc.chihuahua.wtf:443/",
     "rest": "https://api.chihuahua.wtf:443/",
     "nodeProvider": {
@@ -14,7 +14,7 @@
         "coinMinimalDenom": "uhuahua",
         "coinDecimals": 6,
         "coinGeckoId": "chihuahua-token",
-        "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/chihuahua/chain.png"
+        "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/chihuahua/chain.png"
     },
     "bip44": {
         "coinType": 118
@@ -32,14 +32,14 @@
         "coinMinimalDenom": "uhuahua",
         "coinDecimals": 6,
         "coinGeckoId": "chihuahua-token",
-        "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/chihuahua/chain.png"
+        "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/chihuahua/chain.png"
     }],
     "feeCurrencies": [{
         "coinDenom": "HUAHUA",
         "coinMinimalDenom": "uhuahua",
         "coinDecimals": 6,
         "coinGeckoId": "chihuahua-token",
-        "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/chihuahua/chain.png",
+        "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/chihuahua/chain.png",
         "gasPriceStep": {
             "low": 500,
             "average": 1250,

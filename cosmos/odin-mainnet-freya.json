@@ -3,7 +3,7 @@
   "chainName": "ODIN",
   "rpc": "https://node.odin-freya-website.odinprotocol.io/mainnet/a/",
   "rest": "https://node.odin-freya-website.odinprotocol.io/mainnet/a/api/",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/odin-mainnet-freya/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/odin-mainnet-freya/chain.png",
   "nodeProvider": {
     "name": "Odin Protocol",
     "email": "hello@odinprotocol.io",

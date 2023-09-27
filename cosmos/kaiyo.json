@@ -1,7 +1,7 @@
 {
   "chainId": "kaiyo-1",
   "chainName": "Kujira",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/kaiyo/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/kaiyo/chain.png",
   "rpc": "https://kujira-rpc.nodes.defiantlabs.net",
   "rest": "https://rest.cosmos.directory/kujira/",
   "nodeProvider": {
@@ -26,7 +26,7 @@
       "coinMinimalDenom": "ukuji",
       "coinDecimals": 6,
       "coinGeckoId": "kujira",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/kaiyo/chain.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/kaiyo/chain.png"
     },
     {
       "coinDenom": "USK",
@@ -39,7 +39,7 @@
       "coinMinimalDenom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
       "coinDecimals": 6,
       "coinGeckoId": "mantadao",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/kaiyo/chain.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/kaiyo/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -48,7 +48,7 @@
       "coinMinimalDenom": "ukuji",
       "coinDecimals": 6,
       "coinGeckoId": "kujira",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/kaiyo/chain.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/kaiyo/chain.png"
     },
     {
       "coinDenom": "USK",
@@ -122,7 +122,7 @@
     "coinMinimalDenom": "ukuji",
     "coinDecimals": 6,
     "coinGeckoId": "kujira",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/kaiyo/chain.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/kaiyo/chain.png"
   },
   "features": ["cosmwasm"]
 }

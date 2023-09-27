@@ -1,7 +1,7 @@
 {
   "chainId": "LumenX",
   "chainName": "LumenX",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/LumenX/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/LumenX/chain.png",
   "rpc": "https://lumenx-rpc.kynraze.com",
   "rest": "https://lumenx-api.kynraze.com",
   "nodeProvider": {

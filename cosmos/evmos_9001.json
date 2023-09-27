@@ -3,13 +3,13 @@
   "rest": "https://lcd-evmos.keplr.app",
   "chainId": "evmos_9001-2",
   "chainName": "Evmos",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/evmos_9001/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/evmos_9001/chain.png",
   "stakeCurrency": {
     "coinDenom": "EVMOS",
     "coinMinimalDenom": "aevmos",
     "coinDecimals": 18,
     "coinGeckoId": "evmos",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/evmos_9001/aevmos.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/evmos_9001/aevmos.png"
   },
   "walletUrl": "https://wallet.keplr.app/chains/evmos",
   "walletUrlForStaking": "https://wallet.keplr.app/chains/evmos",
@@ -30,7 +30,7 @@
       "coinMinimalDenom": "aevmos",
       "coinDecimals": 18,
       "coinGeckoId": "evmos",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/evmos_9001/aevmos.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/evmos_9001/aevmos.png"
     }
   ],
   "feeCurrencies": [
@@ -39,7 +39,7 @@
       "coinMinimalDenom": "aevmos",
       "coinDecimals": 18,
       "coinGeckoId": "evmos",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/evmos_9001/aevmos.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/evmos_9001/aevmos.png",
       "gasPriceStep": {
         "low": 80000000000,
         "average": 80000000000,

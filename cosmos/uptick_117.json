@@ -1,7 +1,7 @@
 {
 	"chainId": "uptick_117-1",
 	"chainName": "Uptick Network",
-	"chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/uptick_117/chain.png",
+	"chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/uptick_117/chain.png",
 	"rpc": "https://rpc.uptick.network",
 	"rest": "https://rest.uptick.network",
 	"nodeProvider": {
@@ -24,13 +24,13 @@
 		"coinDenom": "UPTICK",
 		"coinMinimalDenom": "auptick",
 		"coinDecimals": 18,
-		"coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/uptick_117/auptick.png"
+		"coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/uptick_117/auptick.png"
 	}],
 	"feeCurrencies": [{
 		"coinDenom": "UPTICK",
 		"coinMinimalDenom": "auptick",
 		"coinDecimals": 18,
-		"coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/uptick_117/auptick.png",
+		"coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/uptick_117/auptick.png",
 		"gasPriceStep": {
 			"low": 125000000000,
 			"average": 130000000000,
@@ -41,7 +41,7 @@
 		"coinDenom": "UPTICK",
 		"coinMinimalDenom": "auptick",
 		"coinDecimals": 18,
-		"coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/uptick_117/auptick.png"
+		"coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/uptick_117/auptick.png"
 	},
 	"features": ["eth-address-gen", "eth-key-sign"]
 }

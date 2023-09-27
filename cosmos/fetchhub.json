@@ -1,7 +1,7 @@
 {  
     "chainName": "fetchhub",
     "chainId": "fetchhub-4",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/fetchhub/fet.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/fetchhub/fet.png",
     "rpc": "https://rpc-fetchhub.fetch.ai:443",
     "rest": "https://rest-fetchhub.fetch.ai",
     "nodeProvider": {
@@ -26,7 +26,7 @@
         "coinMinimalDenom": "afet",
         "coinDecimals": 18,
         "coinGeckoId": "fetch-ai",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/fetchhub/fet.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/fetchhub/fet.png"
       }
     ],
     "feeCurrencies": [
@@ -35,7 +35,7 @@
         "coinMinimalDenom": "afet",
         "coinDecimals": 18,
         "coinGeckoId": "fetch-ai",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/fetchhub/fet.png",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/fetchhub/fet.png",
         "gasPriceStep": {
           "low": 0.025,
           "average": 0.025,
@@ -48,7 +48,7 @@
         "coinMinimalDenom": "afet",
         "coinDecimals": 18,
         "coinGeckoId": "fetch-ai",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/fetchhub/fet.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/fetchhub/fet.png"
     },
     "features": [
       "cosmwasm"

@@ -1,7 +1,7 @@
 {
    "chainId":"migaloo-1",
    "chainName":"Migaloo",
-   "chainSymbolImageUrl":"https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/migaloo/chain.png",
+   "chainSymbolImageUrl":"https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/migaloo/chain.png",
    "rpc":"https://rpc-whitewhale-ia.cosmosia.notional.ventures/",
    "rest":"https://api-whitewhale-ia.cosmosia.notional.ventures/",
    "nodeProvider":{

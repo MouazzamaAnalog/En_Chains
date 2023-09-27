@@ -3,7 +3,7 @@
   "rest": "https://lcd-neutron.keplr.app",
   "chainId": "neutron-1",
   "chainName": "Neutron",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/neutron/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/neutron/chain.png",
   "stakeCurrency": {
     "coinDenom": "STAKE",
     "coinMinimalDenom": "ustake",
@@ -26,14 +26,14 @@
       "coinMinimalDenom": "untrn",
       "coinDecimals": 6,
       "coinGeckoId": "neutron",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/neutron/untrn.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/neutron/untrn.png"
     },
     {
       "coinDenom": "wstETH",
       "coinMinimalDenom": "factory/neutron1ug740qrkquxzrk2hh29qrlx3sktkfml3je7juusc2te7xmvsscns0n2wry/wstETH",
       "coinDecimals": 18,
       "coinGeckoId": "wrapped-steth",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/neutron/wstETH.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/neutron/wstETH.png"
     },
     {
       "coinDenom": "STAKE",

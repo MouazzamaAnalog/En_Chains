@@ -1,7 +1,7 @@
 {
   "chainId": "Neutaro-1",
   "chainName": "Neutaro",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Neutaro/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Neutaro/chain.png",
   "rpc": "http://rpc.neutaro.tech:26657/",
   "rest": "http://api.neutaro.tech:1317/",
   "nodeProvider": {

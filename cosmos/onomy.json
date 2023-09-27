@@ -8,7 +8,7 @@
       "coinMinimalDenom": "anom",
       "coinDecimals": 18,
       "coinGeckoId": "onomy-protocol",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Onomy/onomy.jpg"
     },
     "bip44": {
       "coinType": 118
@@ -28,7 +28,7 @@
         "coinMinimalDenom": "anom",
         "coinDecimals": 18,
         "coinGeckoId": "onomy-protocol",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Onomy/onomy.jpg"
       }
     ],
     "feeCurrencies": [
@@ -37,7 +37,7 @@
         "coinMinimalDenom": "anom",
         "coinDecimals": 18,
         "coinGeckoId": "onomy-protocol",
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/Onomy/onomy.jpg",
         "gasPriceStep": {
           "low": 0,
           "average": 0.03,

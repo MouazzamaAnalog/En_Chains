@@ -1,7 +1,7 @@
 {
     "chainId": "test-core-2",
     "chainName": "Persistence Testnet 2",
-    "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/test-core/chain.png",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/test-core/chain.png",
     "rpc": "https://rpc.testnet2.persistence.one/",
     "rest": "https://rest.testnet2.persistence.one/",
     "nodeProvider": {
@@ -25,7 +25,7 @@
         "coinDenom": "XPRT",
         "coinMinimalDenom": "uxprt",
         "coinDecimals": 6,
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/test-core/uxprt.png"
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/test-core/uxprt.png"
       },
       {
         "coinDenom": "STKATOM",
@@ -38,7 +38,7 @@
         "coinDenom": "XPRT",
         "coinMinimalDenom": "uxprt",
         "coinDecimals": 6,
-        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/test-core/uxprt.png",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/test-core/uxprt.png",
         "gasPriceStep": {
           "low": 0.05,
           "average": 0.125,
@@ -50,7 +50,7 @@
       "coinDenom": "XPRT",
       "coinMinimalDenom": "xprt",
       "coinDecimals": 6,
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/test-core/uxprt.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/test-core/uxprt.png"
     },
     "features": ["cosmwasm"]
   }

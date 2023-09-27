@@ -12,7 +12,7 @@
   },
   "chainId": "pio-testnet-1",
   "chainName": "Provenance Testnet",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/pio-testnet/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/pio-testnet/chain.png",
   "currencies": [
     {
       "coinDecimals": 9,

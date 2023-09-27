@@ -3,7 +3,7 @@
   "rest": "https://rest.comdex.one",
   "chainId": "comdex-1",
   "chainName": "Comdex",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png",
   "nodeProvider": {
     "name": "Comdex Node",
     "email": "info@comdex.one",
@@ -14,7 +14,7 @@
     "coinMinimalDenom": "ucmdx",
     "coinDecimals": 6,
     "coinGeckoId": "comdex",
-    "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png"
+    "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png"
   },
   "walletUrl": "https://app.harborprotocol.one",
   "walletUrlForStaking": "https://comdex.omniflix.co/stake",
@@ -35,19 +35,19 @@
       "coinMinimalDenom": "ucmdx",
       "coinDecimals": 6,
       "coinGeckoId": "comdex",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png"
     },
     {
       "coinDenom": "CMST",
       "coinMinimalDenom": "ucmst",
       "coinDecimals": 6,
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png"
     },
     {
       "coinDenom": "HARBOR",
       "coinMinimalDenom": "uharbor",
       "coinDecimals": 6,
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png"
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -56,7 +56,7 @@
       "coinMinimalDenom": "ucmdx",
       "coinDecimals": 6,
       "coinGeckoId": "comdex",
-      "coinImageUrl" : "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/comdex/chain.png",
+      "coinImageUrl" : "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/comdex/chain.png",
       "gasPriceStep": {
         "low": 0,
         "average": 0.025,

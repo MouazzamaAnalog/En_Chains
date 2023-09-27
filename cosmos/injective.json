@@ -3,7 +3,7 @@
   "rest": "https://lcd-injective.keplr.app",
   "chainId": "injective-1",
   "chainName": "Injective",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective/chain.png",
   "bech32Config": {
     "bech32PrefixAccPub": "injpub",
     "bech32PrefixValPub": "injvaloperpub",
@@ -20,7 +20,7 @@
     "coinDecimals": 18,
     "coinMinimalDenom": "inj",
     "coinGeckoId": "injective-protocol",
-    "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective/inj.png"
+    "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective/inj.png"
   },
   "currencies": [
     {
@@ -28,7 +28,7 @@
       "coinDecimals": 18,
       "coinMinimalDenom": "inj",
       "coinGeckoId": "injective-protocol",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective/inj.png"
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective/inj.png"
     }
   ],
   "feeCurrencies": [
@@ -37,7 +37,7 @@
       "coinDecimals": 18,
       "coinMinimalDenom": "inj",
       "coinGeckoId": "injective-protocol",
-      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/injective/inj.png",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/injective/inj.png",
       "gasPriceStep": {
         "low": 500000000,
         "average": 1000000000,

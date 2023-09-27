@@ -3,7 +3,7 @@
   "rest": "https://rest-palvus.pion-1.ntrn.tech",
   "chainId": "pion-1",
   "chainName": "Neutron Testnet",
-  "chainSymbolImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/neutron/chain.png",
+  "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/neutron/chain.png",
   "stakeCurrency": {
     "coinDenom": "STAKE",
     "coinMinimalDenom": "ustake",
