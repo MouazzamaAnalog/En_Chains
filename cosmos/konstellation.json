@@ -1,0 +1,49 @@
+{
+    "rpc": "https://rpc.cosmos.directory/konstellation",
+    "rest": "https://rest.cosmos.directory/konstellation",
+    "chainId": "darchub",
+    "chainName": "Konstellation",
+    "stakeCurrency": {
+      "coinDenom": "DARC",
+      "coinMinimalDenom": "udarc",
+      "coinDecimals": 6,
+      "coinGeckoId": "darcmatter-coin",
+      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg"
+    },
+    "bip44": {
+      "coinType": 118
+    },
+    "walletUrlForStaking": "https://restake.app/konstellation",
+    "bech32Config": {
+      "bech32PrefixAccAddr": "darc",
+      "bech32PrefixAccPub": "darcpub",
+      "bech32PrefixValAddr": "darcvaloper",
+      "bech32PrefixValPub": "darcvaloperpub",
+      "bech32PrefixConsAddr": "darcvalcons",
+      "bech32PrefixConsPub": "darcvalconspub"
+    },
+    "currencies": [
+      {
+        "coinDenom": "DARC",
+        "coinMinimalDenom": "udarc",
+        "coinDecimals": 6,
+        "coinGeckoId": "darcmatter-coin",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg"
+      }
+    ],
+    "feeCurrencies": [
+      {
+        "coinDenom": "DARC",
+        "coinMinimalDenom": "udarc",
+        "coinDecimals": 6,
+        "coinGeckoId": "darcmatter-coin",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Konstellation/konstellation.jpg",
+        "gasPriceStep": {
+          "low": 0,
+          "average": 0.025,
+          "high": 0.05
+        }
+      }
+    ],
+    "beta": true
+  }

@@ -1,0 +1,49 @@
+{
+    "rpc": "https://rpc.cosmos.directory/kichain",
+    "rest": "https://rest.cosmos.directory/kichain",
+    "chainId": "kichain-2",
+    "chainName": "Ki",
+    "stakeCurrency": {
+      "coinDenom": "XKI",
+      "coinMinimalDenom": "uxki",
+      "coinDecimals": 6,
+      "coinGeckoId": "ki",
+      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Ki/Ki.jpg"
+    },
+    "bip44": {
+      "coinType": 118
+    },
+    "walletUrlForStaking": "https://restake.app/kichain",
+    "bech32Config": {
+      "bech32PrefixAccAddr": "ki",
+      "bech32PrefixAccPub": "kipub",
+      "bech32PrefixValAddr": "kivaloper",
+      "bech32PrefixValPub": "kivaloperpub",
+      "bech32PrefixConsAddr": "kivalcons",
+      "bech32PrefixConsPub": "kivalconspub"
+    },
+    "currencies": [
+      {
+        "coinDenom": "XKI",
+        "coinMinimalDenom": "uxki",
+        "coinDecimals": 6,
+        "coinGeckoId": "ki",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Ki/Ki.jpg"
+      }
+    ],
+    "feeCurrencies": [
+      {
+        "coinDenom": "XKI",
+        "coinMinimalDenom": "uxki",
+        "coinDecimals": 6,
+        "coinGeckoId": "ki",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Ki/Ki.jpg",
+        "gasPriceStep": {
+          "low": 0.025,
+          "average": 0.03,
+          "high": 0.05
+        }
+      }
+    ],
+    "beta": true
+  }

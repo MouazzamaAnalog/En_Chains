@@ -1,0 +1,49 @@
+{
+    "rpc": "https://rpc.cosmos.directory/onomy",
+    "rest": "https://rest.cosmos.directory/onomy",
+    "chainId": "onomy-mainnet-1",
+    "chainName": "Onomy",
+    "stakeCurrency": {
+      "coinDenom": "NOM",
+      "coinMinimalDenom": "anom",
+      "coinDecimals": 18,
+      "coinGeckoId": "onomy-protocol",
+      "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg"
+    },
+    "bip44": {
+      "coinType": 118
+    },
+    "walletUrlForStaking": "https://restake.app/onomy",
+    "bech32Config": {
+      "bech32PrefixAccAddr": "onomy",
+      "bech32PrefixAccPub": "onomypub",
+      "bech32PrefixValAddr": "onomyvaloper",
+      "bech32PrefixValPub": "onomyvaloperpub",
+      "bech32PrefixConsAddr": "onomyvalcons",
+      "bech32PrefixConsPub": "onomyvalconspub"
+    },
+    "currencies": [
+      {
+        "coinDenom": "NOM",
+        "coinMinimalDenom": "anom",
+        "coinDecimals": 18,
+        "coinGeckoId": "onomy-protocol",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg"
+      }
+    ],
+    "feeCurrencies": [
+      {
+        "coinDenom": "NOM",
+        "coinMinimalDenom": "anom",
+        "coinDecimals": 18,
+        "coinGeckoId": "onomy-protocol",
+        "coinImageUrl": "https://raw.githubusercontent.com/analog-mutations/en-chains-registry/main/images/Onomy/onomy.jpg",
+        "gasPriceStep": {
+          "low": 0,
+          "average": 0.03,
+          "high": 0.06
+        }
+      }
+    ],
+    "beta": true
+  }
