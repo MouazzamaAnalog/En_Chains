@@ -3,6 +3,7 @@
     "rest": "https://rest.cosmos.directory/cudos",
     "chainId": "cudos-1",
     "chainName": "Cudos",
+    "chainSymbolImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/cudos/cudos.png",
     "stakeCurrency": {
       "coinDenom": "CUDOS",
       "coinMinimalDenom": "acudos",
