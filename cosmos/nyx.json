@@ -38,7 +38,8 @@
       "coinDenom": "NYX",
       "coinMinimalDenom": "unyx",
       "coinDecimals": 6,
-      "coinGeckoId": "nyx"
+      "coinGeckoId": "nyx",
+      "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/nyx/chain.png"
     }
   ],
   "feeCurrencies": [
@@ -53,7 +54,8 @@
 	"coinDenom": "nyx",
 	"coinMinimalDenom": "unyx",
 	"coinDecimals": 6,
-	"coinGeckoId": "nyx"
+	"coinGeckoId": "nyx",
+  "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/nyx/chain.png"
     }
   ],
   "features": [

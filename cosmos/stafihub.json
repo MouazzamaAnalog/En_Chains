@@ -32,7 +32,8 @@
             "coinDenom": "FIS",
             "coinMinimalDenom": "ufis",
             "coinDecimals": 6,
-            "coinGeckoId": "stafi"
+            "coinGeckoId": "stafi",
+            "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/stafihub/chain.png"
         },
         {
             "coinDenom": "rATOM",
@@ -60,6 +61,7 @@
         "coinMinimalDenom": "ufis",
         "coinDecimals": 6,
         "coinGeckoId": "stafi",
+        "coinImageUrl": "https://raw.githubusercontent.com/MouazzamaAnalog/En_Chains/main/images/stafihub/chain.png",
         "gasPriceStep": {
             "low": 0.01,
             "average": 0.025,
